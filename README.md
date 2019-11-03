@@ -6,5 +6,5 @@ OpenBusinessMap will be a free and open source business directory, based on the 
 
 ## Contact
 
-[write us](mailto:info@addismap.com?subject:OpenBusinessMap)
+[write us](mailto:info@addismap.com?subject=OpenBusinessMap)
 
