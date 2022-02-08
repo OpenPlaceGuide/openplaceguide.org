@@ -1,4 +1,4 @@
-![OpenPlaceGuide](/openplaceguide.org/logo.png)
+![OpenPlaceGuide](https://openplaceguide.org/logo.png)
 
 
 # Vision
