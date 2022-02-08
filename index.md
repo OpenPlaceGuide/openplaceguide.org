@@ -1,3 +1,6 @@
+![OpenPlaceGuide](/openplaceguide.org/logo.png)
+
+
 # Vision
 
 OpenPlaceGuide (formerly known as OpenBusinessMap) will be a free and open source business directory, based on the OpenStreetMap project.
