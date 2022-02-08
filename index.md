@@ -4,6 +4,8 @@ OpenPlaceGuide (formerly known as OpenBusinessMap) will be a free and open sourc
 It combines data from the OpenStreetMap project, as well as additional information about businesses and
 other places of interest.
 
+A open guide of places.
+
 # Draft Concept
 
 [https://github.com/OpenPlaceGuide/openplaceguide](https://github.com/OpenPlaceGuide/openplaceguide)
