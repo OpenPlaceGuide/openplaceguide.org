@@ -27,7 +27,7 @@ We provide a vector and raster tile server covering all Africa at [https://afric
   
   [OPG](https://openplaceguide.org) / [© OpenMapTiles](https://www.openmaptiles.org/) [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright) 
   
-* Do not use it excessivly. Excessive use might be trottled. [Contact us](mailto:info@addismap.com?subject=OpenPlaceGuide+Africa+Tiles) if you plan using it for a bigger project.
+* Do not use it excessively. Excessive use might be throttled. [Contact us](mailto:info@addismap.com?subject=OpenPlaceGuide+Africa+Tiles) if you plan using it for a bigger project.
 * Prefer using vector tiles of raster tiles - they cause much less server load.
 * We do not guarantee for availability and the terms of usage might change in the future.
 * Have fun and make OSM in Africa grow!
