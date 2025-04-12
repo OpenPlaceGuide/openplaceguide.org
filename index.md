@@ -1,5 +1,6 @@
 ![OpenPlaceGuide](https://openplaceguide.org/logo.png)
 
+![Three diverse individuals using digital devices in front of a stylized world map with red location pins and connection lines. The slogan reads “Discover and contribute to place and business information worldwide.” and the website “openplaceguide.org” is displayed below.]((https://openplaceguide.org/cover.png)
 
 # Vision
 
@@ -12,6 +13,10 @@ An open guide of places.
 # Draft Concept
 
 [https://github.com/OpenPlaceGuide/openplaceguide](https://github.com/OpenPlaceGuide/openplaceguide)
+
+# Instances
+
+* [map.et Ethiopian Place Guide (beta)](https://map.et)
 
 # Contact
 
