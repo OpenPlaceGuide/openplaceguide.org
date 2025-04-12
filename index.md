@@ -1,4 +1,4 @@
-![OpenPlaceGuide](https://openplaceguide.org/logo.png)
+![OpenPlaceGuide](https://openplaceguide.org/artwork/logo.png)
 
 ![Three diverse individuals using digital devices in front of a stylized world map with red location pins and connection lines. The slogan reads “Discover and contribute to place and business information worldwide.” and the website “openplaceguide.org” is displayed below.](https://openplaceguide.org/cover.png)
 
