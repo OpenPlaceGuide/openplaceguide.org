@@ -15,10 +15,6 @@ p, li, a {
   font-weight: 400;
 }
 
-.wrapper {
-  background-color: #faf7f3;
-}
-
-.main-content {
+#main_content_wrap {
   background-color: #faf7f3;
 } 
